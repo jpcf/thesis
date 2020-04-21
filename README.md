@@ -1,1 +1,1 @@
-# Master Thesis Dissertation - RNN on FPGA
+# Master Thesis Dissertation - LSTM on FPGA
